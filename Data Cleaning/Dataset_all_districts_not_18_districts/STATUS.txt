@@ -1,0 +1,23 @@
+Number of Sample: 4888
+ 
+Unique Districts: ['Central' None 'Mid-Levels' 'Admiralty' 'Sheung Wan' 'Wan Chai'
+ 'The Peak' 'Sai Ying Pun' 'Tai Wo' 'Tsim Sha Tsui' 'Western District'
+ 'Sai Wan' 'Pok Fu Lam' 'Shek Tong Tsui' 'Causeway Bay' 'Happy Valley'
+ 'Jordan' 'Kennedy Town' 'Yau Ma Tei' 'Tai Hang' 'Tin Hau' 'Aberdeen'
+ 'North Point' 'Wong Chuk Hang' 'Fortress Hill' 'Hung Hom' 'Mong Kok'
+ 'Tai Kok Tsui' 'Ap Lei Chau' 'Ho Man Tin' 'Tai Wai' 'To Kwa Wan'
+ 'Kowloon City' 'Sham Shui Po' 'Prince Edward' 'Lai Chi Kok'
+ 'Cheung Sha Wan' 'Tai Po' 'Quarry Bay' 'Shum Shui Po' 'Shek Kip Mei'
+ 'Tai Koo' 'Mei Foo' 'Repulse Bay' 'Kowloon Tong' 'Shau Kei Wan'
+ 'Sai Wan Ho' 'Kai Tak' 'Kowloon Bay' 'Kwun Tong' 'Wong Tai Sin' 'Lok Fu'
+ 'Ngau Tau Kok' 'San Po Kong' 'Choi Hung' 'Yau Tong' 'Chai Wan'
+ 'Diamond Hill' 'Ngau Chi Wan' 'Kwai Chung' 'Heng Fa Chuen' 'Tsz Wan Shan'
+ 'Lam Tin' 'Lei Yue Mun' 'Stanley' 'Tsing Yi' 'Kwai Fong' 'Po Tat'
+ 'Po Lam' 'Sha Tin' 'Kwai Hing' 'Tsuen Wan' 'Tai Wa' 'Tseung Kwan O'
+ 'Sai Kung' 'Shek Mun' 'Hang Hau' 'Fo Tan' 'Ma On Shan' 'Discovery Bay'
+ 'Sham Tseng' 'Pak Shek Kok' 'Tuen Mun' 'Yuen Long' 'Tung Chung' 'Kam Tin'
+ 'Chek Lap Kok' 'Fanling' 'Tin Shui Wai' 'Sheung Shui' 'Shun Hing Street']
+
+
+-> next step should be splitted into 18 districts (clusting), then might be find some insights
+-> cleaned ugly data, such as no one comments or ranting, spelling wrong address, chinese address
