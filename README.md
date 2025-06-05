@@ -1,4 +1,4 @@
-# SmileCry_Sentiment_Analysis
+# HongKongReviews_Sentiment_Analysis
 It would not be shown too detailed as there is no permission from groupmates and only the part done by myself.
 
 # Project Purpose
