@@ -1,8 +1,8 @@
-# SimleCry_Sentiment_Analysis
+# SmileCry_Sentiment_Analysis
 It would not be shown too detailed as there is no permission from groupmates and only the part done by myself.
 
 # Project Purpose
-This is the part of university project I have done in Introduction to Computational Social Science. Our project topic is "Does Restaurant Density Cause Higher Customer Satisfaction in Hong Kong?"
+This is the part of unisfaversity project I have done in Introduction to Computational Social Science. Our project topic is "Does Restaurant Density Cause Higher Customer Satisfaction in Hong Kong?"
 The dataset is used by "Hong Kong Food Panda Restaurant Reviews" and these reviews are from Mar 25, 2023 to Apr 18, 2025 of restaurants and stores in Hong Kong. 
 
 
